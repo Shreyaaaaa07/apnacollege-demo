@@ -1,3 +1,4 @@
 # apnacollege-demo
-this is an example for understanding 
-author = shreya sharma 
+this is an example for understanding.
+<br>
+Author = shreya sharma 
